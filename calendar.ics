@@ -1,4 +1,114 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//intimi-heart-events//pipeline//HE
+PRODID:-//merhav-bari//pipeline//HE
+X-WR-CALNAME:אִינְטִימִי בְּלוּז + שיא הרגש – אירועים
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VEVENT
+UID:fde7631af5dff0d2a7046343344ec55a@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260910T193000
+DTEND:20260910T233000
+SUMMARY:יניב גולד (אוקאס) — לָעוֹמֶק 2 – גרסת ראש השנה
+DESCRIPTION:בהנחיית יניב גולד (אוקאס)\nסדנת מגע חווייתית לזוגות וצמדים קבועים\, ללא החלפה בין המשתתפים.\nhttps://mim21.github.io/intimi-heart-events/#event-ל-עו-מ-ק-2-גרסת-ראש-השנה-20260910-1930
+LOCATION:בית להיוולד מחדש · תל אביב
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%9C-%D7%A2%D7%95-%D7%9E-%D7%A7-2-%D7%92%D7%A8%D7%A1%D7%AA-%D7%A8%D7%90%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-20260910-1930
+END:VEVENT
+BEGIN:VEVENT
+UID:e2adfb8ba5172045e8212e504518b1db@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260827T193000
+DTEND:20260828T000000
+SUMMARY:רוני כהן — מקדש אהבה טנטרי לגברים שאוהבים גברים
+DESCRIPTION:בהנחיית רוני כהן\nסדנת ערב טנטרית לגברים\, המוקדשת לאהבה\, אינטימיות וחיבור לגוף ולמיניות.\nhttps://mim21.github.io/intimi-heart-events/#event-מקדש-אהבה-טנטרי-לגברים-שאוהבים-גברים-20260827-1930
+LOCATION:פלורנטין · תל אביב
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%9E%D7%A7%D7%93%D7%A9-%D7%90%D7%94%D7%91%D7%94-%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%9C%D7%92%D7%91%D7%A8%D7%99%D7%9D-%D7%A9%D7%90%D7%95%D7%94%D7%91%D7%99%D7%9D-%D7%92%D7%91%D7%A8%D7%99%D7%9D-20260827-1930
+END:VEVENT
+BEGIN:VEVENT
+UID:02e72cb2a747b3e06fb3777f06ad1c39@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260827T201500
+DTEND:20260827T224500
+SUMMARY:דייט זוגי במים – ואטסו\, מגע וחיבור
+DESCRIPTION:שעתיים וחצי של תרגילי מגע\, תנועה ומשחק במים לזוגות\, בקבוצה של עד חמישה זוגות.\nhttps://mim21.github.io/intimi-heart-events/#event-דייט-זוגי-במים-ואטסו-מגע-וחיבור-20260827-2015
+LOCATION:בריכה פרטית ומקורה באזור בנימינה
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%93%D7%99%D7%99%D7%98-%D7%96%D7%95%D7%92%D7%99-%D7%91%D7%9E%D7%99%D7%9D-%D7%95%D7%90%D7%98%D7%A1%D7%95-%D7%9E%D7%92%D7%A2-%D7%95%D7%97%D7%99%D7%91%D7%95%D7%A8-20260827-2015
+END:VEVENT
+BEGIN:VEVENT
+UID:7086d103c0c13358ff45f44a6f006969@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260827T203000
+DTEND:20260828T000000
+SUMMARY:מילה — מרחב זוגי למגע וחיבור חושני
+DESCRIPTION:בהנחיית מילה\nסדנה לזוגות לחקירת מגע וחיבור חושני\, ללא עירום וללא מגע עם משתתפים אחרים.\nhttps://mim21.github.io/intimi-heart-events/#event-מרחב-זוגי-למגע-וחיבור-חושני-20260827-2030
+LOCATION:המיקום יופיע בקישור האירוע
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%9E%D7%A8%D7%97%D7%91-%D7%96%D7%95%D7%92%D7%99-%D7%9C%D7%9E%D7%92%D7%A2-%D7%95%D7%97%D7%99%D7%91%D7%95%D7%A8-%D7%97%D7%95%D7%A9%D7%A0%D7%99-20260827-2030
+END:VEVENT
+BEGIN:VEVENT
+UID:7f01f43c8af9a08c79c7f9e6c3cbc2b7@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260904T093000
+DTEND:20260904T173000
+SUMMARY:עונג זוגי – סודות השפיכה הנשית וגבריות מעונגת
+DESCRIPTION:סדנת עיסוי טנטרי לזוגות\, חיבור\, תשוקה ואומנות העונג הזוגי.\nhttps://mim21.github.io/intimi-heart-events/#event-עונג-זוגי-סודות-השפיכה-הנשית-וגבריות-מעונגת-20260904-0930
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%A2%D7%95%D7%A0%D7%92-%D7%96%D7%95%D7%92%D7%99-%D7%A1%D7%95%D7%93%D7%95%D7%AA-%D7%94%D7%A9%D7%A4%D7%99%D7%9B%D7%94-%D7%94%D7%A0%D7%A9%D7%99%D7%AA-%D7%95%D7%92%D7%91%D7%A8%D7%99%D7%95%D7%AA-%D7%9E%D7%A2%D7%95%D7%A0%D7%92%D7%AA-20260904-0930
+END:VEVENT
+BEGIN:VEVENT
+UID:02f86b216f1456ec24320df8ccbccc0d@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260910T200000
+DTEND:20260910T220000
+SUMMARY:נועם וסטאר — Divine Ceremony
+DESCRIPTION:בהנחיית נועם וסטאר\nמקדש של תנועה\, נשימה\, מגע וחושניות\, הנפתח בהדרגה לחקירה ומשחק חופשי.\nhttps://mim21.github.io/intimi-heart-events/#event-Divine-Ceremony-20260910-2000
+LOCATION:וילה ליד פרדס חנה (מיקום מדויק יימסר לנרשמים)
+URL:https://mim21.github.io/intimi-heart-events/#event-Divine-Ceremony-20260910-2000
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0112a513b79fabeb087e804117e8cd@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260828T230000
+DTEND:20260829T010000
+SUMMARY:סאנסט לוברס – אירוע ההשקה הרשמי
+DESCRIPTION:אירוע השקה עם סט כפול של אופיר וסנטרו\, במרחב ללא צילומים ומסכים.\nhttps://mim21.github.io/intimi-heart-events/#event-סאנסט-לוברס-אירוע-ההשקה-הרשמי-20260828-2300
+LOCATION:דופמין\, מנשה בן ישראל 17 · תל אביב
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%A1%D7%90%D7%A0%D7%A1%D7%98-%D7%9C%D7%95%D7%91%D7%A8%D7%A1-%D7%90%D7%99%D7%A8%D7%95%D7%A2-%D7%94%D7%94%D7%A9%D7%A7%D7%94-%D7%94%D7%A8%D7%A9%D7%9E%D7%99-20260828-2300
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb778fc355d10014d8910b301398089@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260828T160000
+DTEND:20260829T000000
+SUMMARY:מיכאל פינקל — ארטמפל – רצף סדנאות על אינטימיות\, מגע ומיניות
+DESCRIPTION:בהנחיית מיכאל פינקל\nרצף סדנאות באיזון מגדרי ובמרחב ללא אלכוהול\, מריחואנה או משני תודעה.\nhttps://mim21.github.io/intimi-heart-events/#event-ארטמפל-רצף-סדנאות-על-אינטימיות-מגע-ומיניות-20260828-1600
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%90%D7%A8%D7%98%D7%9E%D7%A4%D7%9C-%D7%A8%D7%A6%D7%A3-%D7%A1%D7%93%D7%A0%D7%90%D7%95%D7%AA-%D7%A2%D7%9C-%D7%90%D7%99%D7%A0%D7%98%D7%99%D7%9E%D7%99%D7%95%D7%AA-%D7%9E%D7%92%D7%A2-%D7%95%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-20260828-1600
+END:VEVENT
+BEGIN:VEVENT
+UID:4cfd4a2d75bc6d8cd65a1c5a99d0f3f4@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260915T180000
+DTEND:20260915T213000
+SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור ספטמבר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שלישי על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-heart-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-ספטמבר-20260915-1800
+LOCATION:תל אביב
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-20260915-1800
+END:VEVENT
+BEGIN:VEVENT
+UID:7b743efac7eb3cd5778f9e633ba989e5@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20261130T180000
+DTEND:20261130T213000
+SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור נובמבר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שני על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-heart-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-נובמבר-20261130-1800
+LOCATION:תל אביב
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
+END:VEVENT
+BEGIN:VEVENT
+UID:5c1fa640498f6e50990022461d1901fb@merhav-bari
+DTSTAMP:20260825T153354Z
+DTSTART:20260905T100000
+DTEND:20260905T180000
+SUMMARY:ערן — מנהיגות פנימית במציאות מטלטלת
+DESCRIPTION:בהנחיית ערן\nסדנת יום המשלבת IFS ופסיכודרמה לחקירת החלקים הפנימיים והיחסים ביניהם.\nhttps://mim21.github.io/intimi-heart-events/#event-מנהיגות-פנימית-במציאות-מטלטלת-20260905-1000
+LOCATION:סטודיו מעוז הים · שדות ים
+URL:https://mim21.github.io/intimi-heart-events/#event-%D7%9E%D7%A0%D7%94%D7%99%D7%92%D7%95%D7%AA-%D7%A4%D7%A0%D7%99%D7%9E%D7%99%D7%AA-%D7%91%D7%9E%D7%A6%D7%99%D7%90%D7%95%D7%AA-%D7%9E%D7%98%D7%9C%D7%98%D7%9C%D7%AA-20260905-1000
+END:VEVENT
 END:VCALENDAR
