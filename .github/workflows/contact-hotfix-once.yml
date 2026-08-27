@@ -1,0 +1,53 @@
+name: Contact hotfix one-shot
+
+on:
+  push:
+    branches:
+      - fix/full-contact-link-20260827
+    paths:
+      - .github/workflows/contact-hotfix-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/full-contact-link-20260827
+      - name: Make the whole developer-contact sentence one link
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path("index.html")
+          text = path.read_text(encoding="utf-8")
+          old = "\n".join([
+              '    <div class="developer-contact" role="note">',
+              '      <a href="https://t.me/merhav_bari_contact_bot" target="_blank" rel="noopener noreferrer">💬 משוב או הצעה ליומן</a>',
+              '      <span>למפתח היומן בלבד — לא להנהלת הקבוצה.</span>',
+              '    </div>',
+          ])
+          new = "\n".join([
+              '    <div class="developer-contact" role="note">',
+              '      <a href="https://t.me/merhav_bari_contact_bot" target="_blank" rel="noopener noreferrer">💬 משוב או הצעה ליומן! למפתח היומן בלבד — לא להנהלת הקבוצה.</a>',
+              '    </div>',
+          ])
+          if text.count(new) == 1 and text.count(old) == 0:
+              print("CONTACT_LINK_ALREADY_CURRENT=YES")
+          elif text.count(old) == 1:
+              path.write_text(text.replace(old, new, 1), encoding="utf-8")
+          else:
+              raise SystemExit("contact block is neither the reviewed old nor new form")
+          PY
+          git diff --check
+          if git diff --quiet -- index.html; then
+            exit 0
+          fi
+          git config user.name mim21
+          git config user.email 67644256+mim21@users.noreply.github.com
+          git add index.html
+          git commit -m "Make full developer contact row clickable"
+          git push origin HEAD:fix/full-contact-link-20260827
