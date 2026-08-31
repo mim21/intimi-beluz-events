@@ -85,6 +85,16 @@ LOCATION:וילה ליד פרדס חנה (מיקום מדויק יימסר לנ�
 URL:https://mim21.github.io/intimi-beluz-events/#event-Divine-Ceremony-20260910-2000
 END:VEVENT
 BEGIN:VEVENT
+UID:07ffaceac8ace5484b22305c117a4c6e@merhav-bari
+DTSTAMP:20260830T204335Z
+DTSTART:20260912T183000
+DTEND:20260912T210000
+SUMMARY:אלונה סודרי — דייט זוגי במים – ואטסו\, מגע וחיבור בבריכה חמה
+DESCRIPTION:בהנחיית אלונה סודרי\nסדנת ואטסו זוגית אינטימית המשלבת מגע\, תנועה ומשחק במים חמים.\nhttps://mim21.github.io/intimi-beluz-events/#event-דייט-זוגי-במים-ואטסו-מגע-וחיבור-בבריכה-חמה-20260912-1830
+LOCATION:בריכה פרטית ומקורה באזור בנימינה
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-%D7%96%D7%95%D7%92%D7%99-%D7%91%D7%9E%D7%99%D7%9D-%D7%95%D7%90%D7%98%D7%A1%D7%95-%D7%9E%D7%92%D7%A2-%D7%95%D7%97%D7%99%D7%91%D7%95%D7%A8-%D7%91%D7%91%D7%A8%D7%99%D7%9B%D7%94-%D7%97%D7%9E%D7%94-20260912-1830
+END:VEVENT
+BEGIN:VEVENT
 UID:7185c2ca264051696635f3ca1e119ff0@merhav-bari
 DTSTAMP:20260830T204335Z
 DTSTART;VALUE=DATE:20260915
