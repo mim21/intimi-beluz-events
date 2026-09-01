@@ -85,6 +85,26 @@ LOCATION:וילה ליד פרדס חנה (מיקום מדויק יימסר לנ�
 URL:https://mim21.github.io/intimi-beluz-events/#event-Divine-Ceremony-20260910-2000
 END:VEVENT
 BEGIN:VEVENT
+UID:829f769caa631a186c65d381a42fab0c@merhav-bari
+DTSTAMP:20260831T223820Z
+DTSTART:20260910T193000
+DTEND:20260911T000000
+SUMMARY:חגית משאלי וגילי אור ברקן — Summer Nights – מקדשי לב ועונג
+DESCRIPTION:בהנחיית חגית משאלי וגילי אור ברקן\nמפגש קיץ במרחב המוקדש ללב ולעונג.\nhttps://mim21.github.io/intimi-beluz-events/#event-Summer-Nights-מקדשי-לב-ועונג-20260910-1930
+LOCATION:תל אביב\; כתובת מדויקת תימסר לנרשמים
+URL:https://mim21.github.io/intimi-beluz-events/#event-Summer-Nights-%D7%9E%D7%A7%D7%93%D7%A9%D7%99-%D7%9C%D7%91-%D7%95%D7%A2%D7%95%D7%A0%D7%92-20260910-1930
+END:VEVENT
+BEGIN:VEVENT
+UID:70a8d5e335aa9828953436603fe88e34@merhav-bari
+DTSTAMP:20260831T223820Z
+DTSTART:20260910T190000
+DTEND:20260910T230000
+SUMMARY:רן טיבי — מדיטציית אום – ערב חווייתי לשחרור וחיבור
+DESCRIPTION:בהנחיית רן טיבי\nמדיטציה חברתית פעילה בת 14 שלבים לביטוי רגשי\, שחרור וחיבור קבוצתי.\nhttps://mim21.github.io/intimi-beluz-events/#event-מדיטציית-אום-ערב-חווייתי-לשחרור-וחיבור-20260910-1900
+LOCATION:גרשון ש״ץ 41\, ליד תחנת הרכבת הקלה יהודית · תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%93%D7%99%D7%98%D7%A6%D7%99%D7%99%D7%AA-%D7%90%D7%95%D7%9D-%D7%A2%D7%A8%D7%91-%D7%97%D7%95%D7%95%D7%99%D7%99%D7%AA%D7%99-%D7%9C%D7%A9%D7%97%D7%A8%D7%95%D7%A8-%D7%95%D7%97%D7%99%D7%91%D7%95%D7%A8-20260910-1900
+END:VEVENT
+BEGIN:VEVENT
 UID:07ffaceac8ace5484b22305c117a4c6e@merhav-bari
 DTSTAMP:20260831T223820Z
 DTSTART:20260912T183000
@@ -145,6 +165,16 @@ SUMMARY:Leonie Louise — Tantra From The Heart – ריטריט בישראל
 DESCRIPTION:בהנחיית Leonie Louise\nריטריט בינלאומי בן ארבעה וחצי ימים המשלב טנטרה\, פסיכולוגיה ותרגולים מהמסורת הטאואיסטית.\nhttps://mim21.github.io/intimi-beluz-events/#event-Tantra-From-The-Heart-ריטריט-בישראל-20261008-1500\nתאריך התחלה: 08/10/2026 · תאריך סיום: 12/10/2026
 LOCATION:Essene Farm\, ליד אבן ספיר · הרי ירושלים
 URL:https://mim21.github.io/intimi-beluz-events/#event-Tantra-From-The-Heart-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-20261008-1500
+END:VEVENT
+BEGIN:VEVENT
+UID:57d825a055e48c2f40e418935e33b879@merhav-bari
+DTSTAMP:20260831T223820Z
+DTSTART:20261030T100000
+DTEND:20261031T180000
+SUMMARY:מלינה רימברג וראדיקה סופי שילה — חזרה אליי – סוף שבוע טנטרה לנשים
+DESCRIPTION:בהנחיית מלינה רימברג וראדיקה סופי שילה\nסוף שבוע לנשים לחיבור לגוף\, לאנרגיית החיים ולמיניות בדרך הטנטרה.\nhttps://mim21.github.io/intimi-beluz-events/#event-חזרה-אליי-סוף-שבוע-טנטרה-לנשים-20261030-1000
+LOCATION:מתחם בטבע בעמק חפר\; מיקום מדויק יימסר לנרשמות
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%97%D7%96%D7%A8%D7%94-%D7%90%D7%9C%D7%99%D7%99-%D7%A1%D7%95%D7%A3-%D7%A9%D7%91%D7%95%D7%A2-%D7%98%D7%A0%D7%98%D7%A8%D7%94-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D-20261030-1000
 END:VEVENT
 BEGIN:VEVENT
 UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
