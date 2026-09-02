@@ -55,6 +55,16 @@ LOCATION:סטודיו מעוז הים · שדות ים
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%A0%D7%94%D7%99%D7%92%D7%95%D7%AA-%D7%A4%D7%A0%D7%99%D7%9E%D7%99%D7%AA-%D7%91%D7%9E%D7%A6%D7%99%D7%90%D7%95%D7%AA-%D7%9E%D7%98%D7%9C%D7%98%D7%9C%D7%AA-20260905-1000
 END:VEVENT
 BEGIN:VEVENT
+UID:242e53771d0912f761a974c4fb859e84@merhav-bari
+DTSTAMP:20260831T223820Z
+DTSTART:20260908T073000
+DTEND:20260908T140000
+SUMMARY:רותם רם ולירז סיאני לופז — מסיבת נימפות היער
+DESCRIPTION:בהנחיית רותם רם ולירז סיאני לופז\nיום נשי בטבע המשלב תנועה\, יצירה\, צילום אישי\, ארוחה משותפת וטבילה במעיין.\nhttps://mim21.github.io/intimi-beluz-events/#event-מסיבת-נימפות-היער-20260908-0730
+LOCATION:פינה קסומה ליד בנימינה (מיקום מדויק יימסר לנרשמות)
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%A1%D7%99%D7%91%D7%AA-%D7%A0%D7%99%D7%9E%D7%A4%D7%95%D7%AA-%D7%94%D7%99%D7%A2%D7%A8-20260908-0730
+END:VEVENT
+BEGIN:VEVENT
 UID:67f250c26e2fa9a5f88d1bfb4ad16d9c@merhav-bari
 DTSTAMP:20260831T223820Z
 DTSTART:20260909T190000
