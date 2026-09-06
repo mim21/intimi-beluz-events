@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//intimi-heart-events//pipeline//HE
-NAME:אִינְטִימִי בְּלוּז · שיא הרגש
-X-WR-CALNAME:אִינְטִימִי בְּלוּז · שיא הרגש
+NAME:Intimi Heart Events
+X-WR-CALNAME:Intimi Heart Events
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
 UID:fde7631af5dff0d2a7046343344ec55a@merhav-bari
