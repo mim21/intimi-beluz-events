@@ -5,17 +5,6 @@ NAME:Intimi Bluz
 X-WR-CALNAME:Intimi Bluz
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
-UID:7185c2ca264051696635f3ca1e119ff0@merhav-bari
-DTSTAMP:20260925T142347Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-RDATE;VALUE=DATE:20261117
-SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור ספטמבר
-DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שלישי על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-ספטמבר-20260915-1800\nתאריך התחלה: 15/09/2026 · תאריך סיום: 17/11/2026
-LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-20260915-1800
-END:VEVENT
-BEGIN:VEVENT
 UID:3645bdd0b2f8a6db35fd8402997b80ec@merhav-bari
 DTSTAMP:20260925T142347Z
 DTSTART;VALUE=DATE:20261008
@@ -27,24 +16,26 @@ LOCATION:Essene Farm\, ליד אבן ספיר · הרי ירושלים
 URL:https://mim21.github.io/intimi-beluz-events/#event-Tantra-From-The-Heart-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-20261008-1500
 END:VEVENT
 BEGIN:VEVENT
-UID:45b8bb813fd1790b9c826cb9ea671752@merhav-bari
+UID:7185c2ca264051696635f3ca1e119ff0@merhav-bari
 DTSTAMP:20260925T142347Z
-DTSTART:20261014T090000
-DTEND:20261014T093000
-SUMMARY:רותם שובל — מועדון העונג – תרגול אונליין לנשים
-DESCRIPTION:בהנחיית רותם שובל\nתוכנית אונליין בת שלושה חודשים עם תרגול גוף\, תנועה\, נשימה ועונג אחת לשבועיים לנשים.\nhttps://mim21.github.io/intimi-beluz-events/#event-מועדון-העונג-תרגול-אונליין-לנשים-20261014-0900
-LOCATION:Zoom · אונליין
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%94%D7%A2%D7%95%D7%A0%D7%92-%D7%AA%D7%A8%D7%92%D7%95%D7%9C-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D-20261014-0900
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RDATE;VALUE=DATE:20261117
+SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור ספטמבר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שלישי על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-ספטמבר-20260915-1800\nתאריך התחלה: 15/09/2026 · תאריך סיום: 17/11/2026
+LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-20260915-1800
 END:VEVENT
 BEGIN:VEVENT
-UID:82d37f246de62d9e8133f208d3077aee@merhav-bari
+UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
 DTSTAMP:20260925T142347Z
-DTSTART:20261017T093000
-DTEND:20261017T193000
-SUMMARY:לירי אוזן ובן נובק — רואה לתוכי – ריטריט יום זוגי
-DESCRIPTION:בהנחיית לירי אוזן ובן נובק\nריטריט יום לזוגות המשלב תקשורת מקרבת\, מיניות בריאה\, נשימה זוגית וכלים להעמקת הקשר.\nhttps://mim21.github.io/intimi-beluz-events/#event-רואה-לתוכי-ריטריט-יום-זוגי-20261017-0930
-LOCATION:תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A8%D7%95%D7%90%D7%94-%D7%9C%D7%AA%D7%95%D7%9B%D7%99-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%99%D7%95%D7%9D-%D7%96%D7%95%D7%92%D7%99-20261017-0930
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RDATE;VALUE=DATE:20270201
+SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור נובמבר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שני על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-נובמבר-20261130-1800\nתאריך התחלה: 30/11/2026 · תאריך סיום: 01/02/2027
+LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
 END:VEVENT
 BEGIN:VEVENT
 UID:57d825a055e48c2f40e418935e33b879@merhav-bari
@@ -67,14 +58,23 @@ LOCATION:סטודיו מעוז הים\, המרכז הימי · שדות ים
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%93%D7%A8%D7%9E%D7%94-%D7%AA%D7%94%D7%9C%D7%99%D7%9B%D7%99%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261102-1900
 END:VEVENT
 BEGIN:VEVENT
-UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
+UID:82d37f246de62d9e8133f208d3077aee@merhav-bari
 DTSTAMP:20260925T142347Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-RDATE;VALUE=DATE:20270201
-SUMMARY:יניב גולד (אוקאס) וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור נובמבר
-DESCRIPTION:בהנחיית יניב גולד (אוקאס) וצוות מנחים\nקורס בן עשרה מפגשים בימי שני על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-נובמבר-20261130-1800\nתאריך התחלה: 30/11/2026 · תאריך סיום: 01/02/2027
-LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
+DTSTART:20261017T093000
+DTEND:20261017T193000
+SUMMARY:לירי אוזן ובן נובק — רואה לתוכי – ריטריט יום זוגי
+DESCRIPTION:בהנחיית לירי אוזן ובן נובק\nריטריט יום לזוגות המשלב תקשורת מקרבת\, מיניות בריאה\, נשימה זוגית וכלים להעמקת הקשר.\nhttps://mim21.github.io/intimi-beluz-events/#event-רואה-לתוכי-ריטריט-יום-זוגי-20261017-0930
+LOCATION:תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A8%D7%95%D7%90%D7%94-%D7%9C%D7%AA%D7%95%D7%9B%D7%99-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%99%D7%95%D7%9D-%D7%96%D7%95%D7%92%D7%99-20261017-0930
+END:VEVENT
+BEGIN:VEVENT
+UID:45b8bb813fd1790b9c826cb9ea671752@merhav-bari
+DTSTAMP:20260925T142347Z
+DTSTART:20261014T090000
+DTEND:20261014T093000
+SUMMARY:רותם שובל — מועדון העונג – תרגול אונליין לנשים
+DESCRIPTION:בהנחיית רותם שובל\nתוכנית אונליין בת שלושה חודשים עם תרגול גוף\, תנועה\, נשימה ועונג אחת לשבועיים לנשים.\nhttps://mim21.github.io/intimi-beluz-events/#event-מועדון-העונג-תרגול-אונליין-לנשים-20261014-0900
+LOCATION:Zoom · אונליין
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%94%D7%A2%D7%95%D7%A0%D7%92-%D7%AA%D7%A8%D7%92%D7%95%D7%9C-%D7%90%D7%95%D7%A0%D7%9C%D7%99%D7%99%D7%9F-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D-20261014-0900
 END:VEVENT
 END:VCALENDAR
