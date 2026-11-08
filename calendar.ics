@@ -16,6 +16,27 @@ LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל �
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A1%D7%A4%D7%98%D7%9E%D7%91%D7%A8-20260915-1800
 END:VEVENT
 BEGIN:VEVENT
+UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RDATE;VALUE=DATE:20270201
+SUMMARY:יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור נובמבר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים\nקורס בן עשרה מפגשים בימי שני על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-נובמבר-20261130-1800\nתאריך התחלה: 30/11/2026 · תאריך סיום: 01/02/2027
+LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
+END:VEVENT
+BEGIN:VEVENT
+UID:db727569a97a358a8558b0e646433f2e@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART:20261116T200000
+DTEND:20261116T214500
+SUMMARY:רקפת צור ואלונה סודרי — על מה אנחנו לא מדברים בבית? – קבוצה לזוגות
+DESCRIPTION:בהנחיית רקפת צור ואלונה סודרי\nסדרה בת שישה מפגשים לזוגות ותיקים לשיח\, הקשבה והתנסות סביב החיים המשותפים והקרבה לאורך השנים.\nhttps://mim21.github.io/intimi-beluz-events/#event-על-מה-אנחנו-לא-מדברים-בבית-קבוצה-לזוגות-20261116-2000
+LOCATION:ברקאי
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A2%D7%9C-%D7%9E%D7%94-%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%9C%D7%90-%D7%9E%D7%93%D7%91%D7%A8%D7%99%D7%9D-%D7%91%D7%91%D7%99%D7%AA-%D7%A7%D7%91%D7%95%D7%A6%D7%94-%D7%9C%D7%96%D7%95%D7%92%D7%95%D7%AA-20261116-2000
+END:VEVENT
+BEGIN:VEVENT
 UID:35f4f41c242923cb3a5c0bc21c6cea00@merhav-bari
 DTSTAMP:20261108T190505Z
 DTSTART;VALUE=DATE:20261104
@@ -25,16 +46,6 @@ SUMMARY:אדם לביא וצוות מטפלים — Feel & Flow – ריטריט
 DESCRIPTION:בהנחיית אדם לביא וצוות מטפלים\nריטריט בן חמישה ימים בסיני המשלב נשימה\, תנועה\, מדיטציה\, סדנאות\, טיפולים וזמן חופשי על החוף.\nhttps://mim21.github.io/intimi-beluz-events/#event-Feel-Flow-ריטריט-חופשת-הלב-בסיני-20261104-1230\nתאריך התחלה: 04/11/2026 · תאריך סיום: 08/11/2026
 LOCATION:חוף אל מאחש\, סיני
 URL:https://mim21.github.io/intimi-beluz-events/#event-Feel-Flow-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%97%D7%95%D7%A4%D7%A9%D7%AA-%D7%94%D7%9C%D7%91-%D7%91%D7%A1%D7%99%D7%A0%D7%99-20261104-1230
-END:VEVENT
-BEGIN:VEVENT
-UID:8d1212ac6b6b05ed2a72953b03acdb6b@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART:20261105T180000
-DTEND:20261107T190000
-SUMMARY:תמר אלפסי — גאדריגל 22 – נוגעים בקצה
-DESCRIPTION:בהנחיית תמר אלפסי\nסוף שבוע השתתפותי לקבוצה קטנה המשלב משחק\, ביטוי עצמי\, טבע\, יצירה וחיבורים קהילתיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-גאדריגל-22-נוגעים-בקצה-20261105-1800
-LOCATION:בית החלומות\, עין כרם · ירושלים
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%92%D7%90%D7%93%D7%A8%D7%99%D7%92%D7%9C-22-%D7%A0%D7%95%D7%92%D7%A2%D7%99%D7%9D-%D7%91%D7%A7%D7%A6%D7%94-20261105-1800
 END:VEVENT
 BEGIN:VEVENT
 UID:4868bb4857b2298744af49a9c4dbc9b5@merhav-bari
@@ -47,34 +58,45 @@ LOCATION:אזור צופר\, הערבה
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A7%D7%A8%D7%99%D7%90%D7%94-%D7%9C%D7%9E%D7%A1%D7%A2-%D7%A9%D7%91%D7%98%D7%99-%D7%9E%D7%93%D7%91%D7%A8%D7%99-%D7%91%D7%A2%D7%A8%D7%91%D7%94-20261106-1100
 END:VEVENT
 BEGIN:VEVENT
-UID:b3397605666f9d1ac0ccce5abfa0822a@merhav-bari
+UID:8d1212ac6b6b05ed2a72953b03acdb6b@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART:20261107T190000
-DTEND:20261107T220000
-SUMMARY:יובל איל וגל שחף — מישהו לחמוד אותו – מפגש חיבור יצירתי
-DESCRIPTION:בהנחיית יובל איל וגל שחף\nמפגש היכרות לגילאי 40–55 המשלב תנועה\, שיח\, מגע\, ריקוד וחיבור יצירתי בין אנשים פנויים.\nhttps://mim21.github.io/intimi-beluz-events/#event-מישהו-לחמוד-אותו-מפגש-חיבור-יצירתי-20261107-1900
-LOCATION:אזור קיסריה
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%99%D7%A9%D7%94%D7%95-%D7%9C%D7%97%D7%9E%D7%95%D7%93-%D7%90%D7%95%D7%AA%D7%95-%D7%9E%D7%A4%D7%92%D7%A9-%D7%97%D7%99%D7%91%D7%95%D7%A8-%D7%99%D7%A6%D7%99%D7%A8%D7%AA%D7%99-20261107-1900
+DTSTART:20261105T180000
+DTEND:20261107T190000
+SUMMARY:תמר אלפסי — גאדריגל 22 – נוגעים בקצה
+DESCRIPTION:בהנחיית תמר אלפסי\nסוף שבוע השתתפותי לקבוצה קטנה המשלב משחק\, ביטוי עצמי\, טבע\, יצירה וחיבורים קהילתיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-גאדריגל-22-נוגעים-בקצה-20261105-1800
+LOCATION:בית החלומות\, עין כרם · ירושלים
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%92%D7%90%D7%93%D7%A8%D7%99%D7%92%D7%9C-22-%D7%A0%D7%95%D7%92%D7%A2%D7%99%D7%9D-%D7%91%D7%A7%D7%A6%D7%94-20261105-1800
 END:VEVENT
 BEGIN:VEVENT
-UID:cef14a422e9aade8732bbe72e3261ef1@merhav-bari
+UID:f7facf0e842102ab11a5fecf3a6cde7a@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART:20261108T210000
-DTEND:20261109T020000
-SUMMARY:Dopamine Sunday × Sauna Club
-DESCRIPTION:ערב לזוגות מהקהילה הליברלית הכולל סאונה\, ג׳קוזי\, מוזיקה ומרחבי בילוי אינטימיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-Dopamine-Sunday-Sauna-Club-20261108-2100
-LOCATION:Sauna Club\, קרליבך 14\, תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-Dopamine-Sunday-Sauna-Club-20261108-2100
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+RDATE;VALUE=DATE:20270309
+SUMMARY:יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור ינואר
+DESCRIPTION:בהנחיית יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים\nקורס בן עשרה מפגשים בימי שלישי על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-ינואר-20270105-1800\nתאריך התחלה: 05/01/2027 · תאריך סיום: 09/03/2027
+LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%99%D7%A0%D7%95%D7%90%D7%A8-20270105-1800
 END:VEVENT
 BEGIN:VEVENT
-UID:825d4670b3848f11baa9de97b3b45388@merhav-bari
+UID:2e76ca64cce821b78debbb8af3c4d1d7@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART:20261110T203000
-DTEND:20261110T223000
-SUMMARY:עידן מאירי — המגע שמקרב – וובינר חי לגברים
-DESCRIPTION:בהנחיית עידן מאירי\nוובינר לגברים המלמד עקרונות בסיסיים לעיסוי נעים וליצירת קרבה דרך מגע קשוב.\nhttps://mim21.github.io/intimi-beluz-events/#event-המגע-שמקרב-וובינר-חי-לגברים-20261110-2030
-LOCATION:Zoom · אונליין
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%94%D7%9E%D7%92%D7%A2-%D7%A9%D7%9E%D7%A7%D7%A8%D7%91-%D7%95%D7%95%D7%91%D7%99%D7%A0%D7%A8-%D7%97%D7%99-%D7%9C%D7%92%D7%91%D7%A8%D7%99%D7%9D-20261110-2030
+DTSTART:20261216T140000
+DTEND:20261217T140000
+SUMMARY:רותם רם — התגלות – מסע נשי בעירום במדבר
+DESCRIPTION:בהנחיית רותם רם\nמסע נשי בן יממה במדבר לתרגול קבלה\, חופש וחיבור לגוף ולנפש דרך תנועה\, כתיבה ותהליכים קבוצתיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-התגלות-מסע-נשי-בעירום-במדבר-20261216-1400
+LOCATION:חאן שקדי · נאות הכיכר
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%94%D7%AA%D7%92%D7%9C%D7%95%D7%AA-%D7%9E%D7%A1%D7%A2-%D7%A0%D7%A9%D7%99-%D7%91%D7%A2%D7%99%D7%A8%D7%95%D7%9D-%D7%91%D7%9E%D7%93%D7%91%D7%A8-20261216-1400
+END:VEVENT
+BEGIN:VEVENT
+UID:273c8366d2feedccb79bb45dadd604f3@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART:20261127T100000
+DTEND:20261127T153000
+SUMMARY:אמנות העינוג הטנטרי – עינוג הגבר
+DESCRIPTION:סדנת יום לזוגות העוסקת בעינוג הגבר כחלק ממסע זוגי של חיבור ואהבה.\nhttps://mim21.github.io/intimi-beluz-events/#event-אמנות-העינוג-הטנטרי-עינוג-הגבר-20261127-1000
+LOCATION:פרדס חנה · פרדס חנה-כרכור
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%9E%D7%A0%D7%95%D7%AA-%D7%94%D7%A2%D7%99%D7%A0%D7%95%D7%92-%D7%94%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%A2%D7%99%D7%A0%D7%95%D7%92-%D7%94%D7%92%D7%91%D7%A8-20261127-1000
 END:VEVENT
 BEGIN:VEVENT
 UID:6167f8b791645e99a2eaa1aea0997f91@merhav-bari
@@ -85,26 +107,6 @@ SUMMARY:מאיה לב קורן — דייט טנטרי – סדנת ערב זו�
 DESCRIPTION:בהנחיית מאיה לב קורן\nסדנה זוגית חווייתית לתקשורת אינטימית\, מגע מודע\, הקשבה ונוכחות.\nhttps://mim21.github.io/intimi-beluz-events/#event-דייט-טנטרי-סדנת-ערב-זוגית-20261111-1900
 LOCATION:פרדס חנה (מיקום מדויק יימסר לנרשמים) · פרדס חנה-כרכור
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%A1%D7%93%D7%A0%D7%AA-%D7%A2%D7%A8%D7%91-%D7%96%D7%95%D7%92%D7%99%D7%AA-20261111-1900
-END:VEVENT
-BEGIN:VEVENT
-UID:fffb913ce6ce3ae4a11e1d5f4fac3ff1@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART:20261113T100000
-DTEND:20261114T180000
-SUMMARY:מלינה רימברג וראדיקה סופי שילה — חזרה אליי – סוף שבוע טנטרה לנשים
-DESCRIPTION:בהנחיית מלינה רימברג וראדיקה סופי שילה\nסוף שבוע לנשים המשלב נשימה\, תנועה ועבודה עדינה עם הגוף לחיבור מחודש לאנרגיית החיים ולתשוקה.\nhttps://mim21.github.io/intimi-beluz-events/#event-חזרה-אליי-סוף-שבוע-טנטרה-לנשים-20261113-1000
-LOCATION:מרחב סדנאות בעמק חפר
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%97%D7%96%D7%A8%D7%94-%D7%90%D7%9C%D7%99%D7%99-%D7%A1%D7%95%D7%A3-%D7%A9%D7%91%D7%95%D7%A2-%D7%98%D7%A0%D7%98%D7%A8%D7%94-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D-20261113-1000
-END:VEVENT
-BEGIN:VEVENT
-UID:db727569a97a358a8558b0e646433f2e@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART:20261116T200000
-DTEND:20261116T214500
-SUMMARY:רקפת צור ואלונה סודרי — על מה אנחנו לא מדברים בבית? – קבוצה לזוגות
-DESCRIPTION:בהנחיית רקפת צור ואלונה סודרי\nסדרה בת שישה מפגשים לזוגות ותיקים לשיח\, הקשבה והתנסות סביב החיים המשותפים והקרבה לאורך השנים.\nhttps://mim21.github.io/intimi-beluz-events/#event-על-מה-אנחנו-לא-מדברים-בבית-קבוצה-לזוגות-20261116-2000
-LOCATION:ברקאי
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A2%D7%9C-%D7%9E%D7%94-%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%9C%D7%90-%D7%9E%D7%93%D7%91%D7%A8%D7%99%D7%9D-%D7%91%D7%91%D7%99%D7%AA-%D7%A7%D7%91%D7%95%D7%A6%D7%94-%D7%9C%D7%96%D7%95%D7%92%D7%95%D7%AA-20261116-2000
 END:VEVENT
 BEGIN:VEVENT
 UID:d1abb0852e7f8c3a466a6971097fa29c@merhav-bari
@@ -127,6 +129,36 @@ LOCATION:Rooftop תל אביב
 URL:https://mim21.github.io/intimi-beluz-events/#event-The-Night-You-Choose-%D7%A2%D7%A8%D7%91-%D7%94%D7%99%D7%9B%D7%A8%D7%95%D7%AA-%D7%A2%D7%9D-%D7%9E%D7%A2%D7%99%D7%99%D7%9F-%D7%91%D7%95%D7%99%D7%9E%D7%9F-20261118-1945
 END:VEVENT
 BEGIN:VEVENT
+UID:825d4670b3848f11baa9de97b3b45388@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART:20261110T203000
+DTEND:20261110T223000
+SUMMARY:עידן מאירי — המגע שמקרב – וובינר חי לגברים
+DESCRIPTION:בהנחיית עידן מאירי\nוובינר לגברים המלמד עקרונות בסיסיים לעיסוי נעים וליצירת קרבה דרך מגע קשוב.\nhttps://mim21.github.io/intimi-beluz-events/#event-המגע-שמקרב-וובינר-חי-לגברים-20261110-2030
+LOCATION:Zoom · אונליין
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%94%D7%9E%D7%92%D7%A2-%D7%A9%D7%9E%D7%A7%D7%A8%D7%91-%D7%95%D7%95%D7%91%D7%99%D7%A0%D7%A8-%D7%97%D7%99-%D7%9C%D7%92%D7%91%D7%A8%D7%99%D7%9D-20261110-2030
+END:VEVENT
+BEGIN:VEVENT
+UID:715c5dec973d01510d99e0f3e553bef1@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART:20261225T193000
+DTEND:20261226T000000
+SUMMARY:Winter Nights – מקדש טנטרי מונחה
+DESCRIPTION:מקדש טנטרי מונחה באיזון מגדרי לתרגול נוכחות\, גבולות\, הסכמה ומגע קשוב.\nhttps://mim21.github.io/intimi-beluz-events/#event-Winter-Nights-מקדש-טנטרי-מונחה-20261225-1930
+LOCATION:תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-Winter-Nights-%D7%9E%D7%A7%D7%93%D7%A9-%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%9E%D7%95%D7%A0%D7%97%D7%94-20261225-1930
+END:VEVENT
+BEGIN:VEVENT
+UID:fffb913ce6ce3ae4a11e1d5f4fac3ff1@merhav-bari
+DTSTAMP:20261108T190505Z
+DTSTART:20261113T100000
+DTEND:20261114T180000
+SUMMARY:מלינה רימברג וראדיקה סופי שילה — חזרה אליי – סוף שבוע טנטרה לנשים
+DESCRIPTION:בהנחיית מלינה רימברג וראדיקה סופי שילה\nסוף שבוע לנשים המשלב נשימה\, תנועה ועבודה עדינה עם הגוף לחיבור מחודש לאנרגיית החיים ולתשוקה.\nhttps://mim21.github.io/intimi-beluz-events/#event-חזרה-אליי-סוף-שבוע-טנטרה-לנשים-20261113-1000
+LOCATION:מרחב סדנאות בעמק חפר
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%97%D7%96%D7%A8%D7%94-%D7%90%D7%9C%D7%99%D7%99-%D7%A1%D7%95%D7%A3-%D7%A9%D7%91%D7%95%D7%A2-%D7%98%D7%A0%D7%98%D7%A8%D7%94-%D7%9C%D7%A0%D7%A9%D7%99%D7%9D-20261113-1000
+END:VEVENT
+BEGIN:VEVENT
 UID:57a4a58cbbba4c01e71d0f712294d6d6@merhav-bari
 DTSTAMP:20261108T190505Z
 DTSTART:20261121T170000
@@ -147,37 +179,6 @@ LOCATION:בית פרטי באזור השרון
 URL:https://mim21.github.io/intimi-beluz-events/#event-Kinky-Cats-Party-20261126-1900
 END:VEVENT
 BEGIN:VEVENT
-UID:bece68e2ee8adc43e24fc754c5ccd53a@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART:20261126T193000
-DTEND:20261126T220000
-SUMMARY:רותם רם — דייט מושלם במים – סדנה זוגית של מגע אוהב
-DESCRIPTION:בהנחיית רותם רם\nסדנה זוגית בבריכה חמה המשלבת מגע אוהב\, משחקיות\, הרפיה ואינטימיות.\nhttps://mim21.github.io/intimi-beluz-events/#event-דייט-מושלם-במים-סדנה-זוגית-של-מגע-אוהב-20261126-1930
-LOCATION:בריכה פרטית מחוממת ליד בנימינה
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-%D7%9E%D7%95%D7%A9%D7%9C%D7%9D-%D7%91%D7%9E%D7%99%D7%9D-%D7%A1%D7%93%D7%A0%D7%94-%D7%96%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%9C-%D7%9E%D7%92%D7%A2-%D7%90%D7%95%D7%94%D7%91-20261126-1930
-END:VEVENT
-BEGIN:VEVENT
-UID:273c8366d2feedccb79bb45dadd604f3@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART:20261127T100000
-DTEND:20261127T153000
-SUMMARY:אמנות העינוג הטנטרי – עינוג הגבר
-DESCRIPTION:סדנת יום לזוגות העוסקת בעינוג הגבר כחלק ממסע זוגי של חיבור ואהבה.\nhttps://mim21.github.io/intimi-beluz-events/#event-אמנות-העינוג-הטנטרי-עינוג-הגבר-20261127-1000
-LOCATION:פרדס חנה · פרדס חנה-כרכור
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%9E%D7%A0%D7%95%D7%AA-%D7%94%D7%A2%D7%99%D7%A0%D7%95%D7%92-%D7%94%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%A2%D7%99%D7%A0%D7%95%D7%92-%D7%94%D7%92%D7%91%D7%A8-20261127-1000
-END:VEVENT
-BEGIN:VEVENT
-UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
-DTSTAMP:20261108T190505Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-RDATE;VALUE=DATE:20270201
-SUMMARY:יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור נובמבר
-DESCRIPTION:בהנחיית יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים\nקורס בן עשרה מפגשים בימי שני על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-נובמבר-20261130-1800\nתאריך התחלה: 30/11/2026 · תאריך סיום: 01/02/2027
-LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
-END:VEVENT
-BEGIN:VEVENT
 UID:782b85786b9a7cf6898499cd5c190b65@merhav-bari
 DTSTAMP:20261108T190505Z
 DTSTART:20261213T190000
@@ -188,34 +189,33 @@ LOCATION:עין שמר
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A7%D7%91%D7%95%D7%A6%D7%AA-%D7%A4%D7%A1%D7%99%D7%9B%D7%95%D7%93%D7%A8%D7%9E%D7%94-%D7%AA%D7%94%D7%9C%D7%99%D7%9B%D7%99%D7%AA-%D7%91%D7%93%D7%92%D7%A9-%D7%A2%D7%9C-%D7%99%D7%97%D7%A1%D7%99-%D7%94%D7%AA%D7%A7%D7%A9%D7%A8%D7%95%D7%AA-20261213-1900
 END:VEVENT
 BEGIN:VEVENT
-UID:2e76ca64cce821b78debbb8af3c4d1d7@merhav-bari
+UID:b3397605666f9d1ac0ccce5abfa0822a@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART:20261216T140000
-DTEND:20261217T140000
-SUMMARY:רותם רם — התגלות – מסע נשי בעירום במדבר
-DESCRIPTION:בהנחיית רותם רם\nמסע נשי בן יממה במדבר לתרגול קבלה\, חופש וחיבור לגוף ולנפש דרך תנועה\, כתיבה ותהליכים קבוצתיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-התגלות-מסע-נשי-בעירום-במדבר-20261216-1400
-LOCATION:חאן שקדי · נאות הכיכר
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%94%D7%AA%D7%92%D7%9C%D7%95%D7%AA-%D7%9E%D7%A1%D7%A2-%D7%A0%D7%A9%D7%99-%D7%91%D7%A2%D7%99%D7%A8%D7%95%D7%9D-%D7%91%D7%9E%D7%93%D7%91%D7%A8-20261216-1400
+DTSTART:20261107T190000
+DTEND:20261107T220000
+SUMMARY:יובל איל וגל שחף — מישהו לחמוד אותו – מפגש חיבור יצירתי
+DESCRIPTION:בהנחיית יובל איל וגל שחף\nמפגש היכרות לגילאי 40–55 המשלב תנועה\, שיח\, מגע\, ריקוד וחיבור יצירתי בין אנשים פנויים.\nhttps://mim21.github.io/intimi-beluz-events/#event-מישהו-לחמוד-אותו-מפגש-חיבור-יצירתי-20261107-1900
+LOCATION:אזור קיסריה
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%99%D7%A9%D7%94%D7%95-%D7%9C%D7%97%D7%9E%D7%95%D7%93-%D7%90%D7%95%D7%AA%D7%95-%D7%9E%D7%A4%D7%92%D7%A9-%D7%97%D7%99%D7%91%D7%95%D7%A8-%D7%99%D7%A6%D7%99%D7%A8%D7%AA%D7%99-20261107-1900
 END:VEVENT
 BEGIN:VEVENT
-UID:715c5dec973d01510d99e0f3e553bef1@merhav-bari
+UID:bece68e2ee8adc43e24fc754c5ccd53a@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART:20261225T193000
-DTEND:20261226T000000
-SUMMARY:Winter Nights – מקדש טנטרי מונחה
-DESCRIPTION:מקדש טנטרי מונחה באיזון מגדרי לתרגול נוכחות\, גבולות\, הסכמה ומגע קשוב.\nhttps://mim21.github.io/intimi-beluz-events/#event-Winter-Nights-מקדש-טנטרי-מונחה-20261225-1930
-LOCATION:תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-Winter-Nights-%D7%9E%D7%A7%D7%93%D7%A9-%D7%98%D7%A0%D7%98%D7%A8%D7%99-%D7%9E%D7%95%D7%A0%D7%97%D7%94-20261225-1930
+DTSTART:20261126T193000
+DTEND:20261126T220000
+SUMMARY:רותם רם — דייט מושלם במים – סדנה זוגית של מגע אוהב
+DESCRIPTION:בהנחיית רותם רם\nסדנה זוגית בבריכה חמה המשלבת מגע אוהב\, משחקיות\, הרפיה ואינטימיות.\nhttps://mim21.github.io/intimi-beluz-events/#event-דייט-מושלם-במים-סדנה-זוגית-של-מגע-אוהב-20261126-1930
+LOCATION:בריכה פרטית מחוממת ליד בנימינה
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-%D7%9E%D7%95%D7%A9%D7%9C%D7%9D-%D7%91%D7%9E%D7%99%D7%9D-%D7%A1%D7%93%D7%A0%D7%94-%D7%96%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%9C-%D7%9E%D7%92%D7%A2-%D7%90%D7%95%D7%94%D7%91-20261126-1930
 END:VEVENT
 BEGIN:VEVENT
-UID:f7facf0e842102ab11a5fecf3a6cde7a@merhav-bari
+UID:cef14a422e9aade8732bbe72e3261ef1@merhav-bari
 DTSTAMP:20261108T190505Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-RDATE;VALUE=DATE:20270309
-SUMMARY:יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים — אומנויות האהבה\, היחסים והמיניות – מחזור ינואר
-DESCRIPTION:בהנחיית יניב גולד (אוקאס)\, שרון רלוי וצוות מנחים\nקורס בן עשרה מפגשים בימי שלישי על מיניות\, יחסים וטנטרה\, ללא עירום וללא מגע נועז.\nhttps://mim21.github.io/intimi-beluz-events/#event-אומנויות-האהבה-היחסים-והמיניות-מחזור-ינואר-20270105-1800\nתאריך התחלה: 05/01/2027 · תאריך סיום: 09/03/2027
-LOCATION:בית להיוולד מחדש\, מרדכי אנילביץ 62 · תל אביב
-URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%D7%95%D7%99%D7%95%D7%AA-%D7%94%D7%90%D7%94%D7%91%D7%94-%D7%94%D7%99%D7%97%D7%A1%D7%99%D7%9D-%D7%95%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%97%D7%96%D7%95%D7%A8-%D7%99%D7%A0%D7%95%D7%90%D7%A8-20270105-1800
+DTSTART:20261108T210000
+DTEND:20261109T020000
+SUMMARY:Dopamine Sunday × Sauna Club
+DESCRIPTION:ערב לזוגות מהקהילה הליברלית הכולל סאונה\, ג׳קוזי\, מוזיקה ומרחבי בילוי אינטימיים.\nhttps://mim21.github.io/intimi-beluz-events/#event-Dopamine-Sunday-Sauna-Club-20261108-2100
+LOCATION:Sauna Club\, קרליבך 14\, תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-Dopamine-Sunday-Sauna-Club-20261108-2100
 END:VEVENT
 END:VCALENDAR
