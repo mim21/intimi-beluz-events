@@ -6,7 +6,7 @@ X-WR-CALNAME:Intimi Bluz
 X-WR-TIMEZONE:Asia/Jerusalem
 BEGIN:VEVENT
 UID:18eb6fc03f7784c21c3c43eb1eb44b64@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261126T190000
 DTEND:20261127T020000
 SUMMARY:Kinky Cats Party
@@ -16,7 +16,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-Kinky-Cats-Party-20261126
 END:VEVENT
 BEGIN:VEVENT
 UID:bece68e2ee8adc43e24fc754c5ccd53a@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261126T193000
 DTEND:20261126T220000
 SUMMARY:רותם רם — דייט מושלם במים – סדנה זוגית של מגע אוהב
@@ -26,7 +26,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-
 END:VEVENT
 BEGIN:VEVENT
 UID:a10852753cfc86cd1e829d6c4ec5e7f5@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261126T210000
 DTEND:20261127T000000
 SUMMARY:מילה מיתר — תודעת עונג – סדנה חווייתית לזוגות
@@ -36,7 +36,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%AA%D7%95%D7%93%D7%A2%
 END:VEVENT
 BEGIN:VEVENT
 UID:273c8366d2feedccb79bb45dadd604f3@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261127T100000
 DTEND:20261127T153000
 SUMMARY:גילי אור ברקן וליליה זקס סוקול — אמנות העינוג הטנטרי – עינוג הגבר
@@ -46,7 +46,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%9E%D7%A0%D7%95%
 END:VEVENT
 BEGIN:VEVENT
 UID:0eff82953869bed3e822ce23850ad914@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261128T180000
 DTEND:20261128T220000
 SUMMARY:אופק שלזינגר — מכירים באמת – ערב היכרויות לרווקים ולרווקות
@@ -55,8 +55,18 @@ LOCATION:תל אביב (המיקום המדויק יימסר לנרשמים)
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%9B%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%90%D7%9E%D7%AA-%D7%A2%D7%A8%D7%91-%D7%94%D7%99%D7%9B%D7%A8%D7%95%D7%99%D7%95%D7%AA-%D7%9C%D7%A8%D7%95%D7%95%D7%A7%D7%99%D7%9D-%D7%95%D7%9C%D7%A8%D7%95%D7%95%D7%A7%D7%95%D7%AA-20261128-1800
 END:VEVENT
 BEGIN:VEVENT
+UID:2ea3ce7fb63160dcaae1ffb3b1487d60@merhav-bari
+DTSTAMP:20261123T214835Z
+DTSTART:20261128T140000
+DTEND:20261128T180000
+SUMMARY:אדי ראיזמן — שבת מקורבלת – שירה\, חיבוקים וכרבולים
+DESCRIPTION:בהנחיית אדי ראיזמן\nאחר צהריים שיתופי של שירה מכורבלת\, חיבוקים\, כרבולים ואירוח טבעוני.\nhttps://mim21.github.io/intimi-beluz-events/#event-שבת-מקורבלת-שירה-חיבוקים-וכרבולים-20261128-1400
+LOCATION:שבט\, פאול קור 16\, תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A9%D7%91%D7%AA-%D7%9E%D7%A7%D7%95%D7%A8%D7%91%D7%9C%D7%AA-%D7%A9%D7%99%D7%A8%D7%94-%D7%97%D7%99%D7%91%D7%95%D7%A7%D7%99%D7%9D-%D7%95%D7%9B%D7%A8%D7%91%D7%95%D7%9C%D7%99%D7%9D-20261128-1400
+END:VEVENT
+BEGIN:VEVENT
 UID:e65104de6d76276a7f6798782f9093bf@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 RDATE;VALUE=DATE:20270201
@@ -67,7 +77,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%95%D7%9E%D7%A0%
 END:VEVENT
 BEGIN:VEVENT
 UID:bbcd073212f9959cf71c37aa02ca2b05@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261203T190000
 DTEND:20261203T230000
 SUMMARY:ראדיקה סופי שילה — נגיעות – טנטרה לזוגות מתחילים
@@ -77,7 +87,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A0%D7%92%D7%99%D7%A2%
 END:VEVENT
 BEGIN:VEVENT
 UID:e7fbfe2a21b47118bdaabc62f71a3c9d@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261203T203000
 DTEND:20261203T230000
 SUMMARY:אלונה סודרי — דייט זוגי במים – ואטסו\, מגע וחיבור
@@ -87,7 +97,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-
 END:VEVENT
 BEGIN:VEVENT
 UID:d041565527f2d93e815a82238e6328d2@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261203T090000
 DTEND:20261203T170000
 SUMMARY:מרינה גלנץ — ריטריט ריפוי הילדה הפנימית
@@ -96,8 +106,18 @@ LOCATION:גן יבנה (המיקום המדויק יימסר לנרשמות)
 URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A8%D7%99%D7%98%D7%A8%D7%99%D7%98-%D7%A8%D7%99%D7%A4%D7%95%D7%99-%D7%94%D7%99%D7%9C%D7%93%D7%94-%D7%94%D7%A4%D7%A0%D7%99%D7%9E%D7%99%D7%AA-20261203-0900
 END:VEVENT
 BEGIN:VEVENT
+UID:b56e018575e022b10d167b7a6045d0cf@merhav-bari
+DTSTAMP:20261123T214835Z
+DTSTART:20261203T190000
+DTEND:20261203T210000
+SUMMARY:רן טיבי — מדיטציה חברתית – דרך כל קשת הרגשות
+DESCRIPTION:בהנחיית רן טיבי\nערב מונחה של מדיטציה חברתית המאפשרת לנוע יחד דרך קשת הרגשות.\nhttps://mim21.github.io/intimi-beluz-events/#event-מדיטציה-חברתית-דרך-כל-קשת-הרגשות-20261203-1900
+LOCATION:תל אביב
+URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%9E%D7%93%D7%99%D7%98%D7%A6%D7%99%D7%94-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%93%D7%A8%D7%9A-%D7%9B%D7%9C-%D7%A7%D7%A9%D7%AA-%D7%94%D7%A8%D7%92%D7%A9%D7%95%D7%AA-20261203-1900
+END:VEVENT
+BEGIN:VEVENT
 UID:c3da0f2a30257b0e9819cbfbbb7e2cc9@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261204T090000
 DTEND:20261204T150000
 SUMMARY:אביגיל רות לב — אישה אורגזמית – סדנת יום לנשים
@@ -107,7 +127,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%99%D7%A9%D7%94-
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0e5bccbf56ebfb53b1523cf761a42e@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261204T190000
 DTEND:20261205T000000
 SUMMARY:זהר ירום — ארוטיקה אנרגטית – סדנת אנרגיה\, תשוקה ונוכחות
@@ -117,7 +137,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%A8%D7%95%D7%98%
 END:VEVENT
 BEGIN:VEVENT
 UID:421bff47a0a3cd2172d2bbc730269a79@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261204T160000
 DTEND:20261205T000000
 SUMMARY:מיכאל פינקל — ארטמפל – סדנה\, פלייגראונד ומסע
@@ -127,7 +147,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%A8%D7%98%D7%9E%
 END:VEVENT
 BEGIN:VEVENT
 UID:73d881460ce5a8f137033e46d8c485b4@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261210T193000
 DTEND:20261210T220000
 SUMMARY:רותם רם — דייט מושלם במים – סדנה זוגית של מגע אוהב
@@ -137,7 +157,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%93%D7%99%D7%99%D7%98-
 END:VEVENT
 BEGIN:VEVENT
 UID:782b85786b9a7cf6898499cd5c190b65@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261213T190000
 DTEND:20261213T220000
 SUMMARY:יובל לוי — קבוצת פסיכודרמה תהליכית בדגש על יחסי התקשרות
@@ -147,7 +167,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A7%D7%91%D7%95%D7%A6%
 END:VEVENT
 BEGIN:VEVENT
 UID:2e76ca64cce821b78debbb8af3c4d1d7@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261216T140000
 DTEND:20261217T140000
 SUMMARY:רותם רם — התגלות – מסע נשי בעירום במדבר
@@ -157,7 +177,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%94%D7%AA%D7%92%D7%9C%
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6b3b7d4348ed49c1f0573df641a375@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261217T180000
 DTEND:20261218T000000
 SUMMARY:גילי אור ברקן וליליה זקס סוקול — אמנות העינוג הטנטרי – עינוג האישה
@@ -167,7 +187,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%90%D7%9E%D7%A0%D7%95%
 END:VEVENT
 BEGIN:VEVENT
 UID:715c5dec973d01510d99e0f3e553bef1@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261225T193000
 DTEND:20261226T000000
 SUMMARY:Winter Nights – מקדש טנטרי מונחה
@@ -177,7 +197,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-Winter-Nights-%D7%9E%D7%A
 END:VEVENT
 BEGIN:VEVENT
 UID:9901e0a97bdcd0ba913d1d55779bb22d@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261225T090000
 DTEND:20261226T170000
 SUMMARY:קרן אייל מלמד — יותר מדי – ריטריט עירוני של כתיבה דרך הגוף
@@ -187,7 +207,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%99%D7%95%D7%AA%D7%A8-
 END:VEVENT
 BEGIN:VEVENT
 UID:bc208c4a51f68c4c04afb6cfc7e633e5@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART:20261226T093000
 DTEND:20261226T193000
 SUMMARY:לירי אוזן ובן נובק — רואה לתוכי – ריטריט יום זוגי
@@ -197,7 +217,7 @@ URL:https://mim21.github.io/intimi-beluz-events/#event-%D7%A8%D7%95%D7%90%D7%94-
 END:VEVENT
 BEGIN:VEVENT
 UID:f7facf0e842102ab11a5fecf3a6cde7a@merhav-bari
-DTSTAMP:20261123T063645Z
+DTSTAMP:20261123T214835Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 RDATE;VALUE=DATE:20270309
